@@ -1,5 +1,3 @@
-# To fix ModuleNotFoundError: No module named 'flask'
-# Run this command in your terminal or PowerShell:
 # pip install flask boto3 pillow piexif
 
 
